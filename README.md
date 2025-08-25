@@ -6,7 +6,8 @@ Responsável: Larah Araujo Vieira
 
 ## 📘 Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, conduzido por **Larah Araujo Vieira**. O objetivo principal do projeto foi elencar e aplicar serviços da Amazon Web Services (AWS) com foco na **redução imediata de custos operacionais**, além de promover melhorias na eficiência, segurança e escalabilidade dos processos internos da farmácia.
+Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, conduzido por **Larah Araujo Vieira**. 
+O objetivo principal do projeto foi elencar e aplicar serviços da Amazon Web Services (AWS) com foco na **redução imediata de custos operacionais**, além de promover melhorias na eficiência, segurança e escalabilidade dos processos internos da farmácia.
 
 ## 📝 Descrição do Projeto
 
